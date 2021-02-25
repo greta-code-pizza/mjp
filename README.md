@@ -26,7 +26,7 @@ Par ailleurs, plus le Ptimo est dominant, plus il risque de vous attaquer !
 
 Afin de faire le bon choix vous devez donc prendre en compte l'état de stresse du Ptimo, son caractère dominant et la distance qui vous sépare.
 
-**Exemple d'interface**
+**Exemple d'actions**
 
 ![Image](./readme/2.png)
 

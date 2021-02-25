@@ -36,6 +36,16 @@ Afin de faire le bon choix vous devez prendre en compte l'état de stresse, le c
 
 ## Spécifications
 
+### Le jeu
+
+Le jeu s'arrête si vous perdez votre vie ou si vous décider de refuser une rencontre, il faudra alors recommencer la capture à zéro...
+
+### La rencontre
+
+La rencontre se déroule toujours entre Juliette et un Ptimo et se finit soit avec la capture de celui-ci soit avec la fuite d'un des protagoniste ou par la fin du jeu si Juliette perds tous ses points de vie.
+
+Les points de vie sont rechargés en fin de chaque rencontre.
+
 ### Ptimo
 
 Les Ptimos sont des êtres sensibles et vos actions influent leurs sentiments ! Lors de son instanciation, un Ptimo se voit attribué des **points de dominance et de stress** compris entre (50 et 80). Ces deux attributs peuvent atteindre un maximum de 100 points.
@@ -107,7 +117,20 @@ Permet d'en savoir plus sur le Ptimo. Attention vous n'avez que des informations
 Score de stress : 0-25 (détendu) 26-50 (méfiant) 51-75 (nerveux) 75+ (paniqué)
 Score de dominance : 0-25 (inoffensif) 26-50 (neutre) 51-75 (féroce) 75+ (dangereux)
 
+**Se rapprocher :**
+Juliette se rapproche de 3 à 8 mètres. Si la valeur de rapprochement est supérieur ou égale à la distance, alors le Ptimo peut-être capturé.
 
+**Lancer une friandise :**
+En lancant une friandise vous réduisez le stress du Ptimo. Un lancé de friandise à entre 10 et 70% de chances d'atteindre sa cible, en fonction de votre distance. Plus vous êtes proche, plus vous visez juste.
+
+**Faire une danse impressionnante :**
+En faisant une danse impressionnante vous réduisez les points de dominances du Ptimo (entre 7 et 21pts)
+
+**Flechette endormante :**
+Une flechette endormante a une chance sur deux d'atteindre sa cible. En cas de réussite, vous capturez le Ptimo ! Attention cependant, vous n'avez qu'une flechette pour tous le jeu !
+
+**Partir :**
+Partir peut-être utile en cas de faible points de vie afin d'éviter de perdre tous ses Ptimos...
 
 ### Remarque extra consigne
 

@@ -104,7 +104,7 @@ Vous êtes libre d'ajuster les fréquences pour rendre le jeu le plus fun possib
 
 #### Sacbleu
 
-Le Sacbleu est un Ptimo au tempérament plutôt stressé et pas très dominant. Cependant il exite des exceptions !
+Le Sacbleu est un Ptimo au tempérament plutôt stressé et pas très dominant. Cependant il exisste des exceptions !
 
 L'attaque magique d'un Sacbleu est une **attaque magique commune** càd qu'en plus de frapper plus fort qu'une attaque normale, celle-ci ajoute des points de dominance !
 

@@ -212,6 +212,7 @@ Axes d'améliorations pour avoir un code plus pro ! Ces points seront regardés 
 - Code ouvert à l'extension
 - Code substituable
 - Implémenter au moins un design pattern et expliquer pourquoi
+- Faire des choix argumentés (prise de note possible)
 
 ##### Niveau 3
 

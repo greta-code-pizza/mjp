@@ -4,7 +4,7 @@ Bienvenue dans l'Univers de **madame Juliette et les Ptimos**. MJP est un jeu de
 
 ### But du jeu
 
-Madame Juliette est reconnue comme étant la plus grande spécialiste en Ptimo, cependant trois Ptimos rares lui échappe. Le but du jeu est de les capturer tous !
+Madame Juliette est reconnue comme étant la plus grande spécialiste en Ptimo, cependant trois Ptimos rares lui échappe. Le but du jeu est de capturer un Ptimo de chaque type !
 
 ### Système de jeu
 
@@ -38,7 +38,7 @@ Afin de faire le bon choix vous devez prendre en compte l'état de stress, le ca
 
 ### Le jeu
 
-Le jeu s'arrête si vous perdez votre vie ou si vous décidez de refuser une rencontre, il faudra alors recommencer la capture à zéro...
+Le jeu s'arrête si vous perdez votre vie ou si vous décidez de le quitter, il faudra alors recommencer la capture à zéro...
 
 ### La rencontre
 
@@ -104,7 +104,7 @@ Vous êtes libre d'ajuster les fréquences pour rendre le jeu le plus fun possib
 
 #### Sacbleu
 
-Le Sacbleu est un Ptimo au tempérament plutôt stressé et pas très dominant. Cependant il exisste des exceptions !
+Le Sacbleu est un Ptimo au tempérament plutôt stressé et pas très dominant. Cependant il existe des exceptions !
 
 L'attaque magique d'un Sacbleu est une **attaque magique commune** càd qu'en plus de frapper plus fort qu'une attaque normale, celle-ci ajoute des points de dominance !
 

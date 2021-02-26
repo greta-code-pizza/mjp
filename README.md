@@ -229,6 +229,9 @@ Exemples :
 ### Remarques
 
 1°) Pour résoudre ces consignes, vous pouvez vous servir de connaissances autres que celles vue en cours. 
+
 2°) N'hésitez pas non plus à vous entraider, votre montée en compétences se fait aussi au travers de vos échanges !
+
 3°) Vous pouvez faire des slides explicatifs pour vous accompagner lors de la soutenance
+
 4°) Faites vous plaisir !
